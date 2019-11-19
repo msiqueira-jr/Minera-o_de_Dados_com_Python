@@ -1,1 +1,1 @@
-# Minera-o_de_Dados_com_Python
+Mineração de daods com Python e maquina de estado 
